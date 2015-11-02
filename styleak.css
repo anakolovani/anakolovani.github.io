@@ -1,0 +1,94 @@
+.top{
+	background-color: #f37370;
+	height: 700px;
+}
+.heading{
+	color: #ffffff;
+	font-size: 70pt;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+.text-heading{
+	color: #f37370;
+	font-size: 50pt;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+.text{
+	color: #f37370;
+	font-size: 30pt;
+	text-align: center;
+	padding-top: 30px;
+	font-weight: lighter;
+}
+.text3{
+	color: #000000;
+	font-size: 20pt;
+	text-align: center;
+	padding-top: 30px;
+	font-weight: lighter;
+}
+.text2{
+	color: #000000;
+	font-size:12pt;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: lighter;
+	text-align: center;
+}
+#me-img{
+	position: center;
+}
+.about{
+	height: 760px;
+}
+.about_2{
+	background-color: #5dd7bf;
+	height: 550px;
+}
+.text-heading-white{
+	color: #ffffff;
+	font-size: 50pt;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+.text-white{
+	color: #ffffff;
+	font-size: 30pt;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+.ux-case-study{
+	background-color: #f7d6ff;
+	height: 240px;
+}
+.case{
+	padding-top: 40px;
+	height: 600px;
+}
+.case-3{
+	height: 900px;
+}
+#ux-pic{
+	height: 50%;
+	width: 50%;
+}
+#ux-pic2{
+	height: 70%;
+	width: 70%;
+}
+#pics{
+	width: 80%;
+	height: 60%;
+
+}
+#front-pic{
+	width: 80%;
+}
+.front-end{
+	height: 700px;
+}
